@@ -20,7 +20,7 @@ const io = new Server(server, {
       "http://localhost:8080",
       "http://3.9.169.85:8080",
       "http://3.8.121.196:3000",
-      "http://34.224.66.215/,",
+      "http://34.224.66.215,",
     ],
     credentials: true,
   },
